@@ -1,0 +1,30 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch keyboy
+# Your branch is up-to-date with 'origin/keyboy'.
+#
+# Changes to be committed:
+#	new file:   images/bgs.jpg
+#	new file:   images/btn_s.jpg
+#	new file:   images/button.png
+#	new file:   images/digits.png
+#	new file:   images/digits_s.png
+#	new file:   images/h_bg.jpg
+#	new file:   images/hs_bg.jpg
+#	new file:   images/hs_bg_01.jpg
+#	new file:   images/hs_bg_02.jpg
+#	new file:   images/man.jpg
+#	new file:   images/pt.jpg
+#	new file:   images/qq.jpg
+#	new file:   images/qq1.jpg
+#	new file:   images/qq2.jpg
+#	new file:   images/qqq.jpg
+#
+# Changes not staged for commit:
+#	modified:   .gitattributes
+#
+# Untracked files:
+#	.gitignore
+#
+
